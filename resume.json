@@ -1,0 +1,215 @@
+{
+    "basics": {
+        "name": "Jade Fisher",
+        "label": "Software Engineer",
+        "image": "",
+        "email": "fisherrjd@gmail.com",
+        "phone": "(847) 767-0468",
+        "url": "https://jade.rip",
+        "summary": "A summary of John Doe…",
+        "location": {
+            "address": "2455 S Galapago St",
+            "postalCode": "CO 80223",
+            "city": "Denver",
+            "countryCode": "US",
+            "region": "Colorado"
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "fisherrjd",
+                "url": "https://www.linkedin.com/in/fisherrjd/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Charter",
+            "position": "Contract Software Engineer",
+            "url": null,
+            "startDate": "2023-12-01",
+            "endDate": null,
+            "summary": null,
+            "highlights": [
+                "Developed and implemented client on-boarding processes for a Spring/Lua application, including generating and managing client credentials and adding them to the database for existing and new pathways.",
+                "Led investigation into Redis memory creep, optimized DB usage, revised mismanagement policies, and improved system performance at Spectrum.",
+                "Worked with internal teams and third-party partners to integrate Spectrum services with major streaming platforms like Paramount, Hulu, Vix, and Disney, ensuring seamless functionality and customer experience.",
+                "Upgraded critical APIs from Jax-RS to Spring MVC.",
+                "Collected data for networking adjustments and exploring issues on Charter's network traffic during the 2023 Super Bowl."
+            ]
+        },
+        {
+            "name": "Boeing",
+            "position": "Contract Software Engineer",
+            "url": null,
+            "startDate": "2021-12-01",
+            "endDate": "2023-01-01",
+            "summary": null,
+            "highlights": [
+                "Designed and updated Java micro-services with RESTful APIs for a new satellite communication network commissioned by the US Space Force.",
+                "Worked in an Agile environment with test-driven development and pair programming.",
+                "Updated test procedures and integrated 3rd party testing utilities to streamline code coverage.",
+                "Modernized the software review process and updated tools and software to the latest versions.",
+                "Communicated between teams and business stakeholders to ensure requirements were understood and met."
+            ]
+        },
+        {
+            "name": "Lockheed Martin",
+            "position": "Software Engineer I",
+            "url": null,
+            "startDate": "2020-07-01",
+            "endDate": "2021-12-01",
+            "summary": null,
+            "highlights": [
+                "Designed and updated GUIs using Qt to interface with ground stations and other devices.",
+                "Developed ground control systems for the SBIRS program with the US Space Force.",
+                "Updated system scripts to transfer data between ground stations as new additions were made to the system."
+            ]
+        },
+        {
+            "name": "ULINE",
+            "position": "Software Engineer Intern",
+            "url": "https://uline.com",
+            "startDate": "2019-05-01",
+            "endDate": "2019-08-01",
+            "summary": null,
+            "highlights": [
+                "Implemented MVC programming to add new features to the website, including a shopping list feature and a display for customer quoted prices.",
+                "Fixed HTML/CSS bugs across the Uline.com website.",
+                "Worked in an Agile/Scrum workflow."
+            ]
+        },
+        {
+            "name": "APITV",
+            "position": "Software Engineer",
+            "url": null,
+            "startDate": "2019-01-01",
+            "endDate": "2020-07-01",
+            "summary": null,
+            "highlights": [
+                "Worked in C# to interface with Chrysler engines, interpreting hexadecimal codes through a GUI.",
+                "Connected remotely with teams worldwide to plan and implement new features."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Purdue University",
+            "url": "https://www.purdue.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2016-08",
+            "endDate": "2020-05"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend Development",
+            "level": "Experienced",
+            "keywords": [
+                "Java",
+                "Lua",
+                "NginX",
+                "Microservices",
+                "Spring MVC",
+                "RESTful APIs",
+                "Databases",
+                "Redis",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "name": "Development Practices & Methodologies",
+            "level": "Experienced",
+            "keywords": [
+                "Agile",
+                "Scrum",
+                "Test-Driven Development (TDD)",
+                "Pair Programming",
+                "Code Coverage",
+                "MVC Programming"
+            ]
+        },
+        {
+            "name": "API & System Integration",
+            "level": "Experienced",
+            "keywords": [
+                "API Development",
+                "Third-Party Integration",
+                "System Integration",
+                "Networking Concepts"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
