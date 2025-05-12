@@ -3,10 +3,10 @@
         "name": "Jade Fisher",
         "label": "Software Engineer",
         "image": "",
-        "email": "fisherrjd@gmail.com",
+        "email": "dev@jade.rip",
         "phone": "(847) 767-0468",
         "url": "https://jade.rip",
-        "summary": "Software Engineer passionate about code and exploration. Always experimenting with new technologies and embracing the learning process.",
+        "summary": "Resourceful Software Engineer with a proven track record of contributing across the software development lifecycle in varied environments (telecom, aerospace, e-commerce). Excels at quickly understanding new systems and technologies to effectively design solutions, integrate services, optimize performance, and improve development practices. Seeking dynamic roles that demand strong problem-solving skills, adaptability, and a commitment to continuous technical growth.",
         "location": {
             "address": "2455 S Galapago St",
             "postalCode": "CO 80223",
@@ -19,19 +19,25 @@
                 "network": "Linkedin",
                 "username": "fisherrjd",
                 "url": "https://www.linkedin.com/in/fisherrjd/"
+            },
+            {
+                "network": "Github",
+                "username": "fisherrjd",
+                "url": "https://github.com/fisherrjd/"
             }
         ]
     },
     "work": [
         {
             "name": "Charter",
-            "position": "Contract Software Engineer",
+            "position": "Software Engineer IV - Contact",
             "url": "https://www.spectrum.com/",
+            "location": "Denver, Colorado",
             "startDate": "2023-12-01",
             "endDate": null,
             "summary": null,
             "highlights": [
-                "Developed and implemented client on-boarding    processes for a Spring/Lua application, including generating and managing client credentials and adding them to the database for existing and new pathways.",
+                "Developed and implemented client on-boarding processes for a Spring/Lua application, including generating and managing client credentials and adding them to the database for existing and new pathways.",
                 "Led investigation into Redis memory creep, optimized DB usage, revised mismanagement policies, and improved system performance at Spectrum.",
                 "Worked with internal teams and third-party partners to integrate Spectrum services with major streaming platforms like Paramount, Hulu, Vix, and Disney, ensuring seamless functionality and customer experience.",
                 "Upgraded critical APIs from Jax-RS to Spring MVC.",
@@ -40,8 +46,9 @@
         },
         {
             "name": "Boeing",
-            "position": "Contract Software Engineer",
+            "position": "Software Engineer - Contract",
             "url": "https://www.boeing.com/",
+            "location": "Colorado Springs, Colorado",
             "startDate": "2021-12-01",
             "endDate": "2023-01-01",
             "summary": null,
@@ -57,6 +64,7 @@
             "name": "Lockheed Martin",
             "position": "Software Engineer I",
             "url": "https://www.lockheedmartin.com/en-us/index.html",
+            "location": "Boulder, Colorado",
             "startDate": "2020-07-01",
             "endDate": "2021-12-01",
             "summary": null,
@@ -70,6 +78,7 @@
             "name": "ULINE",
             "position": "Software Engineer Intern",
             "url": "https://uline.com",
+            "location": "Pleasant Prairie, Wisconsin",
             "startDate": "2019-05-01",
             "endDate": "2019-08-01",
             "summary": null,
@@ -81,8 +90,9 @@
         },
         {
             "name": "APITV",
-            "position": "Software Engineer",
+            "position": "Software Verification Engineer",
             "url": "https://www.aptiv.com/",
+            "location": "West Lafayette, Indiana",
             "startDate": "2019-01-01",
             "endDate": "2020-07-01",
             "summary": null,
